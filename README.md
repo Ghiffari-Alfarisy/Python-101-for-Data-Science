@@ -1,2 +1,2 @@
-# Python-101-for-Data-Science
+# Data Science & Machine Learning with Python
 Introduction to Python for Data Science
